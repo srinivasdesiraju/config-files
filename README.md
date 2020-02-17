@@ -1,2 +1,2 @@
 # config-files
-sample
+Config files for Ignite Cluster.
